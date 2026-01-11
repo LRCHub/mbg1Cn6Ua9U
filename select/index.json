@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "다시 만난 세계 Into The New World",
+  "base_artist": "Girls' Generation",
+  "createdAt": "2026-01-11T07:25:20.889535Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "다시 만난 세계 Into the New World (Remix)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/01_다시_만난_세계_Into_the_New_World_(Remix)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "다시 만난 세계 (Into The New World)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_다시_만난_세계_(Into_The_New_World)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "다시 만난 세계 (Into The New World)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/03_다시_만난_세계_(Into_The_New_World)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "다시 만난 세계 Remix (Into the New World Remix)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/04_다시_만난_세계_Remix_(Into_the_New_World_Remix)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "다시 만난 세계 Into The New World",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/05_다시_만난_세계_Into_The_New_World_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "다시 만난 세계 Into the New World",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/06_다시_만난_세계_Into_the_New_World_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "다시 만난 세계 Into the New World (Instrumental)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/07_다시_만난_세계_Into_the_New_World_(Instrumental)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "다시 만난 세계 Into the New World (Live)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/08_다시_만난_세계_Into_the_New_World_(Live)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "다시 만난 세계 (Into the new world)",
+      "artist": "소녀시대",
+      "has_synced": true,
+      "path": "select/09_다시_만난_세계_(Into_the_new_world)_소녀시대.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Into The New World (다시 만난 세계)",
+      "artist": "Girls' Generation (소녀시대)",
+      "has_synced": true,
+      "path": "select/10_Into_The_New_World_(다시_만난_세계)_Girls'_Generation_(소녀시대).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "다시 만난 세계 Into the New World (Instrumental)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/11_다시_만난_세계_Into_the_New_World_(Instrumental)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "다시 만난 세계 (Into the new world) Instrumental",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/12_다시_만난_세계_(Into_the_new_world)_Instrumental_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "다시 만난 세계 (Into The New World) (Instrumental)",
+      "artist": "소녀시대",
+      "has_synced": true,
+      "path": "select/13_다시_만난_세계_(Into_The_New_World)_(Instrumental)_소녀시대.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "다시 만난 세계 (Into The New World)",
+      "artist": "So Nyuh Shi Dae",
+      "has_synced": true,
+      "path": "select/14_다시_만난_세계_(Into_The_New_World)_So_Nyuh_Shi_Dae.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "다시 만난 세계 Into The New World",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/15_다시_만난_세계_Into_The_New_World_Girls'_Generation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "다시 만난 세계 (Into the New World) [Live]",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_01_다시_만난_세계_(Into_the_New_World)_[Live]_少女時代.txt"
+    }
+  ]
+}
